@@ -1,7 +1,0 @@
-<div class="col-md-3">
-        <h2>70-535 Cert Prep Materials</h2>
-        <ul>
-            <li><a href="https://www.microsoft.com/en-us/learning/exam-70-535.aspx">Architecting Microsoft Azure Solutions (70-535)</a></li>
-            <li><a href="https://github.com/guruskill/70-535">Exam Prep GitHub Links</a></li>
-        </ul>
-    </div>
